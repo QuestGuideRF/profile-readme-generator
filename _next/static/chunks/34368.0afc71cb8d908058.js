@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[34368],{34368:(e,t,s)=>{s.r(t),s.d(t,{TextSection:()=>n});var l=s(89142);function n(e){var t=e.content,s=e.styles,n=t.text,c=t.as;return(0,l.jsx)("div",{className:"flex text-section",children:(0,l.jsx)(c,{className:"w-full whitespace-pre-line",style:{textAlign:s.align},children:n.trim()})})}}}]);

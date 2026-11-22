@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[79819],{79819:(e,r,s)=>{s.r(r),s.d(r,{BorderSection:()=>a});var c=s(21932),n=s(89142);function a(e){var r=e.content,s=r.borders,a=r.provider,l=(0,c.C)(a,s[a]);return(0,n.jsx)("div",{className:"flex",children:(0,n.jsx)("img",{className:"w-full",src:l})})}}}]);

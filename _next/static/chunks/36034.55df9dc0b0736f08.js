@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[36034],{36034:(e,t,s)=>{s.r(t),s.d(t,{ActivitiesSection:()=>l});var n=s(21535),c=s(46365),i=s(89142);function l(e){var t=e.content,s=e.styles,l=(0,n.C)({content:t,styles:s});return(0,i.jsx)("div",{className:"flex gap-sm",style:{justifyContent:s.align},children:(0,c.Ay)(l)})}}}]);
